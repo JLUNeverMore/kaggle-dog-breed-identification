@@ -2,7 +2,7 @@
 
 使用了Stanford Dog Dataset, fine-tune Resnet152-v1
 
-https://github.com/JLUNeverMore/kaggle-dog-breed-identification/raw/master/result/first-submit.png
+![first submit](https://github.com/JLUNeverMore/kaggle-dog-breed-identification/raw/master/result/first-submit.png)
 
 参数设置如下：
 num_epochs = 150
